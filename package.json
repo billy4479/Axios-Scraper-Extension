@@ -1,0 +1,6 @@
+{
+  "name": "axios-scraper",
+  "version": "1.0.1",
+  "main": "copy.js",
+  "license": "MIT"
+}
